@@ -1,4 +1,4 @@
 classes = 1
-train = ./train.txt
-names = ./obj.names
-backup = ./backup/
+train = traffic-cone-image-dataset/train.txt
+names = traffic-cone-image-dataset/obj.names
+backup = traffic-cone-image-dataset/backup/
