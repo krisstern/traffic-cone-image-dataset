@@ -1,0 +1,4 @@
+classes = 1
+train = cone_data/train.txt
+names = cone_data/obj.names
+backup = backup/
